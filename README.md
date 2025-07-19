@@ -1,6 +1,6 @@
 # Hiii I'm Janelle!!
 
-✨ I'm an aspiring Computer Science student at **University of Nottingham**, hoping to be front-end developer or go into biotech! ✨
+✨ I'm an aspiring Computer Science student going **University of Nottingham**, hoping to be front-end developer or go into biotech! ✨
 
 ---
 ## About me

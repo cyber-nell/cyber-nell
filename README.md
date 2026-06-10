@@ -14,7 +14,7 @@
 
 - Email: jedasent@gmail.com
 - Linkedln: www.linkedin.com/in/janelle-dasent-97a670375
-- Portfolio: On it's way 😉
+- Projects  so far:
+    -    
 
 ---
-

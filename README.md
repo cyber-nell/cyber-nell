@@ -6,7 +6,7 @@
 ## About me
 
 - Strong background in Python and currently learning HTML, Javascript and C
-- I love biology and coding, so the 2 of them together is a dream which is why biotech is a dream!🌱🌱
+- Some of my interests within computer science include frontend development(seeing ur project come together is very satisfying), biotech (as I love biology) and coding in general! 
 - I love to learn new languages for example, I am perfecting my french and am going to learn mandarin🎓
 
 ---

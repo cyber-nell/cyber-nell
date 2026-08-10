@@ -18,6 +18,7 @@
     -    [Pixel Game](https://github.com/cyber-nell/Pixel-game)
     -    [Music Player](https://github.com/cyber-nell/Music-Player)
     -    [Weather Site](https://github.com/cyber-nell/Weather-site)
+    -    [Finance Manager](https://github.com/cyber-nell/Finance-Manager)
       
 
 ---

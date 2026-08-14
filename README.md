@@ -19,6 +19,6 @@
     -    [Music Player](https://github.com/cyber-nell/Music-Player)
     -    [Weather Site](https://github.com/cyber-nell/Weather-site)
     -    [Finance Manager](https://github.com/cyber-nell/Finance-Manager)
-      
+    -    [Plant Disease Detector](https://github.com/cyber-nell/Plant-Disease-Detector)
 
 ---
